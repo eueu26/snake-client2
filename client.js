@@ -19,6 +19,8 @@ const connect = function() {
   });
 
   conn.write("Name: EFG");
+  conn.write("Say: Hi😁");
+  
   return conn;
 };
 
