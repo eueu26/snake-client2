@@ -10,7 +10,7 @@ Before you can run this client, you will need to be running the server side whic
 ## Final Product
 
 
-![https://github.com/lighthouse-labs/snek-multiplayer](#)
+![image.png](#)
 !["screenshot description"](#)
 
 
