@@ -8,9 +8,7 @@ const setupInput = function(conn) {
   stdin.resume();
   
   const handleUserInput = function() {
-    
     stdin.on("data", (data) => {
-      // console.log("data clicked: ", data);
       if (data === "\u0003") {
         process.exit();
       }
